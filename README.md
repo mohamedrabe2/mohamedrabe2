@@ -2,6 +2,11 @@
 
 Welcome to my GitHub! I'm a passionate **Front-End Web Developer** with a strong focus on creating responsive, user-friendly, and visually appealing web applications. My skillset and dedication allow me to bring ideas to life through clean and efficient code.
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/901c8985-95f7-4d04-b887-49d1ea700892" alt="Centered Image" />
+</div>
+
 ---
 
 ## 🚀 About Me
